@@ -5,9 +5,9 @@
 
 
 # 💻 Tools & Stack: 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,netlify,git,github,npm,wordpress,powershell,vscode," />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,wordpress,powershell,vscode," />
+</div>
  
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=4lifbima&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
