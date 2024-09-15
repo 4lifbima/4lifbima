@@ -4,23 +4,18 @@
 
 
 
-# 💻 Tools & Stack: 
-<div align="center">
+<h2 align="center">Languages and Tools</h2>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,wordpress,powershell,vscode," />
-</div>
+</p>
  
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=4lifbima&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=4lifbima&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4lifbima&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">GitHub Stats</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=4lifbima&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=4lifbima&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img alt="4lifbima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
+  <br />
+  <img alt="4lifbima Stats" src="https://github-readme-stats.vercel.app/api?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="4lifbima GitHub Streak" src="https://streak-stats.demolab.com?user=4lifbima&theme=onedark&hide_border=true" />
+  <img alt="4lifbima Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
+</p>
