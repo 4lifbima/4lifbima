@@ -15,7 +15,7 @@
 <p align="center">
   <img alt="4lifbima's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
   <br />
-  <img alt="4lifbima's Stats" src="https://github-readme-stats.vercel.app/api?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="4lifbima's GitHub Streak" src="https://streak-stats.demolab.com?user=4lifbima&theme=onedark&hide_border=true" />
-  <img alt="4lifbima's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
+  <img alt="4lifbima Stats" src="https://github-readme-stats.vercel.app/api?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="4lifbima GitHub Streak" src="https://streak-stats.demolab.com?user=4lifbima&theme=onedark&hide_border=true" />
+  <img alt="4lifbima Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
 </p>
