@@ -8,12 +8,12 @@
   🎓 &nbsp;I'm an <strong>Informatics</strong> student at <strong><a href="https://www.ung.ac.id/" target="_blank" title="Universitas Negeri Gorontalo">Universitas Negeri Gorontalo</a></strong><br />
   🌱 &nbsp;I'm currently learning <strong>Golang</strong><br />
   💻 &nbsp;I use <strong>Visual Studio Code</strong><br />
-  📫 &nbsp;Ask me anything on my <strong><a href="https://github.com/4lifbima/4lifbima/issues" target="_blank" title="4lifbima/issues">issues page</a></strong><br />
+  📫 &nbsp;Contact me at <strong><a href="mailto:alif67916@gmail.com" target="_blank" title="4lifbima/mail">alif67916@gmail.com</a></strong><br />
 </p>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,wordpress,powershell,npm,vscode,vite,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,github,wordpress,netlify,powershell,npm,vscode,react,vite,vercel&perline=6" />
 </p>
  
 <h2 align="center">GitHub Stats</h2>
