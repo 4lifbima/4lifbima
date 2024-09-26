@@ -13,7 +13,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,wordpress,powershell,npm,vscode,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,wordpress,powershell,npm,vscode,vite,vercel&perline=6" />
 </p>
  
 <h2 align="center">GitHub Stats</h2>
