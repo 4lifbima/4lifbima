@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=C6A76E&background=282C34&center=true&vCenter=true&random=false&width=435&height=100&lines=%F0%9F%91%8B+Hello+there!;I'm+AlifBima;I'm+a+Web+Developer;I'm+a+Programmer" alt="Alif Typing SVG" /></a>
-</p>
+![4lifbima](profile.png)
 
 <h2 align="center">About Me</h2>
 
