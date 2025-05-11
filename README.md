@@ -1,4 +1,8 @@
-![4lifbima](profile.png)
+
+
+<p align="center">
+<img src="profile.png" style="width:100%;" />
+</p>
 
 <h2 align="center">About Me</h2>
 
@@ -23,3 +27,19 @@
   <img alt="4lifbima GitHub Streak" src="https://streak-stats.demolab.com?user=4lifbima&theme=onedark&hide_border=true" />
   <img alt="4lifbima Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
 </p>
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4lifbima/4lifbima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4lifbima/4lifbima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4lifbima/4lifbima/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" alt="Snake animation" />
+
+
+
