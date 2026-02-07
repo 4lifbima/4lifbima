@@ -87,9 +87,10 @@ const alifbima = {
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4lifbima&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=4lifbima&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=4lifbima&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
