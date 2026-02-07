@@ -1,32 +1,112 @@
+<!-- Header Banner -->
 <p align="center">
-<img src="profile.png" style="width:100%;" />
+  <img src="profile.png" style="width:100%;" />
 </p>
 
-<h2 align="center">About Me</h2>
-
+<!-- Profile Badges -->
 <p align="center">
-  🎓 &nbsp;I'm an <strong>Informatics</strong> student at <strong><a href="https://www.ung.ac.id/" target="_blank" title="Universitas Negeri Gorontalo">Universitas Negeri Gorontalo</a></strong><br />
-  🌱 &nbsp;I'm currently learning <strong>Golang</strong><br />
-  💻 &nbsp;I use <strong>Visual Studio Code</strong><br />
-  📫 &nbsp;Contact me at <strong><a href="mailto:alif67916@gmail.com" target="_blank" title="4lifbima/mail">alif67916@gmail.com</a></strong><br />
+  <a href="https://www.alifbima.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-alifbima.my.id-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:alifbima.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alifbima.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/4lifbima">
+    <img src="https://img.shields.io/github/followers/4lifbima?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h2 align="center">Languages and Tools</h2>
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,mysql,nodejs,laravel,go,py,java,cpp,git,github,wordpress,netlify,powershell,npm,vscode,react,vite,vercel&perline=6" />
-</p>
- 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img alt="4lifbima's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
-  <br />
-  <img alt="4lifbima Stats" src="https://github-readme-stats.vercel.app/api?username=4lifbima&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="4lifbima GitHub Streak" src="https://streak-stats.demolab.com?user=4lifbima&theme=onedark&hide_border=true" />
-  <img alt="4lifbima Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Informatics+Student+at+UNG;Passionate+about+Web+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" alt="Snake animation" />
+## 👨‍💻 About Me
 
+```javascript
+const alifbima = {
+    pronouns: "He" | "Him",
+    education: "Informatics @ Universitas Negeri Gorontalo",
+    currentlyLearning: ["Golang", "System Design", "Cloud Computing"],
+    askMeAbout: ["Web Dev", "Tech", "Laravel", "Vue.js"],
+    funFact: "I debug in my dreams 🐛💭"
+};
+```
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Informatics</strong> student at <a href="https://www.ung.ac.id/" target="_blank">Universitas Negeri Gorontalo</a></td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Currently exploring <strong>Golang</strong> & Backend Development</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td>Daily driver: <strong>Visual Studio Code</strong></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Portfolio: <a href="https://www.alifbima.my.id" target="_blank"><strong>alifbima.my.id</strong></a></td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>Reach me at <a href="mailto:alif67916@gmail.com"><strong>alif67916@gmail.com</strong></a></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,react,nextjs,nuxtjs,astro,php,laravel,nodejs,nestjs,go,py,java,kotlin,flutter,androidstudio,mysql,postgresql,supabase,git,github,vscode,vercel,netlify,npm,vite,wordpress,powershell&perline=8" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4lifbima&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4lifbima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lifbima&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity Graph" width="98%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4lifbima&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" />
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4lifbima&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>💡 <i>"Code is like humor. When you have to explain it, it's bad."</i></sub>
+</p>
