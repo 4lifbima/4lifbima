@@ -1,7 +1,11 @@
-<!-- Header Banner -->
+
+
 <p align="center">
-  <img src="profile.png" style="width:100%;" />
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 </p>
+
 
 <!-- Profile Badges -->
 <p align="center">
@@ -29,8 +33,8 @@
 const alifbima = {
     pronouns: "He" | "Him",
     education: "Informatics @ Universitas Negeri Gorontalo",
-    currentlyLearning: ["Golang", "System Design", "Cloud Computing"],
-    askMeAbout: ["Web Dev", "Tech", "Laravel", "Vue.js"],
+    currentlyLearning: ["Nest.js", "Golang", "Flutter"],
+    askMeAbout: ["Nuxt.js", "React.js", "Laravel", "Vue.js", "Next.js", "Kotlin", "Astro"],
     funFact: "I debug in my dreams 🐛💭"
 };
 ```
@@ -50,11 +54,11 @@ const alifbima = {
   </tr>
   <tr>
     <td>🌐</td>
-    <td>Portfolio: <a href="https://www.alifbima.my.id" target="_blank"><strong>alifbima.my.id</strong></a></td>
+    <td>Portfolio: <a href="https://www.alifbima.my.id" target="_blank"><strong>www.alifbima.my.id</strong></a></td>
   </tr>
   <tr>
     <td>📫</td>
-    <td>Reach me at <a href="mailto:alif67916@gmail.com"><strong>alif67916@gmail.com</strong></a></td>
+    <td>Reach me at <a href="mailto:alif67916@gmail.com"><strong>alifbima.dev@gmail.com</strong></a></td>
   </tr>
 </table>
 
@@ -71,28 +75,29 @@ const alifbima = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4lifbima&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4lifbima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lifbima&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4lifbima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="80%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4lifbima&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity Graph" width="98%" />
 </p>
 
+<h3 align="center">📊 Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/4lifbima">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4lifbima&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4lifbima&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4lifbima&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4lifbima&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4lifbima&theme=2077" height="180em" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-contributor-stats.vercel.app/api?username=4lifbima&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=4lifbima&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 🐍 Contribution Snake
 
