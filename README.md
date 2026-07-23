@@ -97,17 +97,6 @@ const alifbima = {
 
 ---
 
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/4lifbima/4lifbima/output/snake.svg" />
-</picture>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4lifbima&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </p>
